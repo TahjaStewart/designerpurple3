@@ -1,0 +1,32 @@
+body{
+	background-color: violet;
+	font-family: cursive, lucida handwriting, papyrus;
+}
+h1 {
+	font-size: 50px;
+}
+h2 {
+	font-size: 80px;
+	text-align: center;
+}
+nav ul li {
+	color: white;
+	font-size: 20px;
+	list-style-type: none;
+	float: left;
+}
+nav ul li a {
+	color: white;
+	text-decoration: none;
+	margin: 10px;
+	padding: 10px;
+}
+nav ul li a:hover {
+	color: hotpink;
+}
+header {
+text-align: center; /* Centers inline elements like images */
+p {
+	font-size: 60px;
+	color: white;
+}

@@ -1,0 +1,11 @@
+*{
+Margin: 0;
+Padding: 0;
+}
+.main{
+	Width: 100%;
+	Background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%, url(purple.jpg)
+	Background-position: center;
+	Background-size: cover;
+	Height: 109wh;
+}
